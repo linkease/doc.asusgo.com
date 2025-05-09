@@ -113,7 +113,8 @@ module.exports = ctx => ({
                                 
                                 ["zenwifi-pro-xt12", "ZENWIFI-PRO-XT12"],  
                                 ["zenwifi-xt9", "ZenWiFi-XT9"],
-                                ["zenwifi-xt8", "ZenWiFi-XT8"],                              
+                                ["zenwifi-xt8", "ZenWiFi-XT8"],
+                                ["zenwifi-xd4", "ZENWIFI-XD4"],                            
                             ]
                         },
                     ],
