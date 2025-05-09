@@ -111,6 +111,7 @@ module.exports = ctx => ({
                                 ["tuf-ax3000_v2", "TUF-AX3000_V2"],
                                 ["tuf-ax3000", "TUF-AX3000"],
                                 
+                                ["zenwifi-pro-xt12", "ZENWIFI-PRO-XT12"],  
                                 ["zenwifi-xt9", "ZenWiFi-XT9"],
                                 ["zenwifi-xt8", "ZenWiFi-XT8"],                              
                             ]
