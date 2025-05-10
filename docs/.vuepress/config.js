@@ -103,7 +103,9 @@ module.exports = ctx => ({
                                // ["rt-ax56u", "RT-AX56U"],
 
                                 ["gt-ac5300", "GT-AC5300"],
-                                
+                                ["gt-ac2900", "GT-AC2900"],
+                                ["rt-ac86u", "RT-AC86U"],
+                                                         
                                 ["tuf-be6500", "TUF-BE6500"],
                                 ["tuf-be3600", "TUF-BE3600"],                                                                                       
                                 ["tx-ax6000", "TX-AX6000"],
