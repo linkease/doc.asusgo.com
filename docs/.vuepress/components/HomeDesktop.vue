@@ -1,10 +1,8 @@
 <template>
   <div id="page" class="desktop">
     <div class="desktop_top">
-      <div class="title">数据归一，访问无限</div>
-      <div class="subtext">你用手机电脑电视等来当私人网盘，那你应该用易有云；
-        你只想用拥有自己的域名，从浏览器来访问你的路由、NAS、电脑桌面、文件等，你应该用 DDNSTO；
-        你想有个更稳定，更轻便，7x24小时运行的低功耗私人网盘或路由系统，那你应该选择 iStoreOS；</div>
+      <div class="title">ASUSGO 爱速固件</div>
+      <div class="subtext">轻松安装管理各类插件，50万+开发者和用户社区、欢迎加入共同探索</div>
       <div class="video-box" @click="openModal(otherUrl.videoUrl1)"><span>观看视频</span></div>
     </div>
     <!-- 产品介绍 -->
@@ -31,7 +29,7 @@
         </div>
         <div class="product_bottom" v-if="tabIndex1 === 0">
           <div class="video-box" @click="openOtherUrl(productUrl[0].doc)"><span>查看文档</span></div>
-          <div class="video-box" @click="openOtherUrl(productUrl[0].web)"><span>进入官网</span></div>
+          <div class="video-box" @click="openOtherUrl(productUrl[0].web)"><span>进入官网2</span></div>
           <div class="video-box" @click="openModal(otherUrl.videoUrl2)"><span>观看视频</span></div>
         </div>
         <div class="product_guide" v-if="tabIndex1 === 1">

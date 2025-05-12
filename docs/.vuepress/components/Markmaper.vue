@@ -27,6 +27,9 @@ export default {
                 case "doc.istoreos.com":
                     val.name = "istoreos"
                     break
+                case "doc.asusgo.com":
+                    val.name = "asusgo"
+                    break
             }
             const parmas = new URLSearchParams(val)
             return `/markmaper/?${parmas.toString()}`

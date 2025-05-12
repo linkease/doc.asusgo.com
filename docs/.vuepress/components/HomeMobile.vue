@@ -2,10 +2,8 @@
   <div id="page" class="mobile">
     <!-- 标题 -->
     <div class="mobile_top">
-      <div class="title">数据归一，访问无限</div>
-      <div class="subtext">你用手机电脑电视等来当私人网盘，那你应该用易有云；
-        你只想用拥有自己的域名，从浏览器来访问你的路由、NAS、电脑桌面、文件等，你应该用 DDNSTO；<br>
-        你想有个更稳定，更轻便，7x24小时运行的低功耗私人网盘或路由系统，那你应该选择 iStoreOS；</div>
+      <div class="title">ASUSGO 爱速固件</div>
+      <div class="subtext">轻松安装管理各类插件，50万+开发者和用户社区、欢迎加入共同探索</div>
       <div class="video-box" @click="openModal(otherUrl.videoUrl1)"><span>观看视频</span><img class="icon"
           :src="logo_video" /></div>
     </div>
