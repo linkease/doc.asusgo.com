@@ -76,6 +76,8 @@ module.exports = ctx => ({
                             sidebarDepth: 2,
                             children: [
                                 ["", "刷机说明"],
+                                ["gt-be98_pro", "GT-BE98_PRO"],
+                                ["gt-be96u", "GT-BE96U"],
                                 ["gt-be96", "GT-BE96"],
                                 ["gt-ax11000_pro", "GT-AX11000_PRO"],
                                 ["gt-ax11000", "GT-AX11000"],
@@ -84,7 +86,7 @@ module.exports = ctx => ({
                                 
                                 ["rt-be88u", "RT-BE88U"],
                                 ["rt-be86u", "RT-BE86U"],
-                               // ["rt-be82u", "RT-BE82U"],
+                                // ["rt-be82u", "RT-BE82U"],
                                 
                                 ["rt-ax92u", "RT-AX92U"],
                                 ["rt-ax89x", "RT-AX89X"],
@@ -119,7 +121,8 @@ module.exports = ctx => ({
                                 ["zenwifi-xt9", "ZenWiFi-XT9"],
                                 ["zenwifi-xt8", "ZenWiFi-XT8"],
                                 ["zenwifi-et8", "ZenWiFi-ET8"],
-                                ["zenwifi-xd4", "ZENWIFI-XD4"],                            
+                                ["zenwifi-bd4", "ZenWiFi-BD4"],                            
+                                ["zenwifi-xd4", "ZenWiFi-XD4"],                            
                             ]
                         },
                     ],
