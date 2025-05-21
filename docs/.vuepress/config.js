@@ -81,7 +81,8 @@ module.exports = ctx => ({
                                 ["gt-be96", "GT-BE96"],
                                 ["gt-ax11000_pro", "GT-AX11000_PRO"],
                                 ["gt-ax11000", "GT-AX11000"],
-                                ["gt-ax6000", "GT-AX6000"],                             
+                                ["gt-ax6000", "GT-AX6000"], 
+                                ["gs7", "ROG魔盒(GS7)"],                           
                                 ["gt6", "ROG魔方幻(GT6)"],
                                 
                                 ["rt-be88u", "RT-BE88U"],
