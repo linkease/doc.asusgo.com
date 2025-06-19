@@ -76,6 +76,7 @@ module.exports = ctx => ({
                             sidebarDepth: 2,
                             children: [
                                 ["", "刷机说明"],
+                                ["changelog.md", "更新日志"],
                                 ["gt-be98_pro", "GT-BE98_PRO"],
                                 ["gt-be96u", "GT-BE96U"],
                                 ["gt-be96", "GT-BE96"],
