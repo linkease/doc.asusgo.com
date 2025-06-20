@@ -40,7 +40,7 @@ module.exports = ctx => ({
     },
     themeConfig: {
         // 站点logo
-        logo: '/image/logo.png',
+        logo: '/image/logo1.png',
         // 页面配置
         locales: {
             // 中文
