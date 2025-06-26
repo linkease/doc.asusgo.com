@@ -92,7 +92,7 @@ module.exports = ctx => ({
                                 
                                 ["rt-be88u", "RT-BE88U"],
                                 ["rt-be86u", "RT-BE86U"],
-                                // ["rt-be82u", "RT-BE82U"],
+                                ["rt-be82u", "RT-BE82U"],
                                 
                                 ["rt-ax92u", "RT-AX92U"],
                                 ["rt-ax89x", "RT-AX89X"],
