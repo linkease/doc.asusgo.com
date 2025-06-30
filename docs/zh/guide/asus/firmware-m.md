@@ -10,3 +10,4 @@
 * 4、一些国内不需要的组件精简：awsiot 等；
 * 5、增加一些软件中心/插件需要用到的功能，如 dnsmasq with ipset、base64 一些内核模块支持等；
 * 6、koolcenter 软件中心支持。
+* [点击去下载各个型号的改版固件](https://www.asusgo.com/firmware)

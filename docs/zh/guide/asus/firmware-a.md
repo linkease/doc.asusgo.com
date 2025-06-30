@@ -11,11 +11,4 @@
 * 6、完全移除 ifttt 和 alexa；
 * 7、系统字体修复；
 * 8、koolshare 软件中心支持。
-
-
-
-
-
-
-
-
+* [点击去下载各个型号的改版固件](https://www.asusgo.com/firmware)
