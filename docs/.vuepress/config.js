@@ -68,7 +68,7 @@ module.exports = ctx => ({
                 sidebar: {
                     '/zh/guide/asus/': [
                         {
-                            title: "设备列表",
+                            title: "文档列表",
                             // 显示所有页面的标题链接
                             displayAllHeaders: true,
                             // 展开状态
@@ -89,7 +89,7 @@ module.exports = ctx => ({
                                     ]
                                 },
                                 {
-                                    title: "支持设备", collapsable: true, children: [
+                                    title: "详情设备", collapsable: true, children: [
                                         ["gt-be98_pro", "GT-BE98_PRO"],
                                         ["gt-be96u", "GT-BE96U"],
                                         ["gt-be96", "GT-BE96"],
