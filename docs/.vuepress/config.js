@@ -91,6 +91,7 @@ module.exports = ctx => ({
                                 {
                                     title: "详情设备", collapsable: true, children: [
                                         ["gt-be98_pro", "GT-BE98_PRO"],
+                                        ["gt-be98", "GT-BE98"],
                                         ["gt-be96u", "GT-BE96U"],
                                         ["gt-be96", "GT-BE96"],
                                         ["gt-ax11000_pro", "GT-AX11000_PRO"],
@@ -135,7 +136,7 @@ module.exports = ctx => ({
                                         ["zenwifi-pro-xt12", "ZenWiFi-Pro-XT12"],  
                                         ["zenwifi-xt9", "ZenWiFi-XT9"],
                                         ["zenwifi-xt8", "ZenWiFi-XT8"],
-                                        ["zenwifi-et8", "ZenWiFi-ET8"],
+                                        //["zenwifi-et8", "ZenWiFi-ET8"],
                                         ["zenwifi-bd4", "ZenWiFi-BD4"],                            
                                         ["zenwifi-xd4", "ZenWiFi-XD4"], 
                                     ]
