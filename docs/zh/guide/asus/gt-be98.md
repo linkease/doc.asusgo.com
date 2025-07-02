@@ -20,7 +20,9 @@
 nvram set DOWNGRADE_CHECK_PASS=1
 ```
 
-* [M 系列 ——>> 梅林改版](/zh/guide/asus/firmware-m.md)
+* [M 系列 ——>> 梅林改版](/zh/guide/asus/firmware-g.md)
 
 #### 三、支持机型
 * 本固件仅支持华硕 GT-BE98 机型，其它机型请勿使用本固件！
+
+* [GT-BE98 改版固件目前仅在爱发电平台，付费抢先体验！](https://ifdian.net/item/3ff3df12448b11f0aed452540025c377)
