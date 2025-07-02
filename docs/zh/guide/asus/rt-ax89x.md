@@ -15,3 +15,5 @@
 
 #### 三、支持机型
 * 本固件仅支持华硕 RT-AX89X 机型，其它机型请勿使用本固件！
+
+* [点击下载 RT-AX89X 改版固件](https://www.asusgo.com/firmware/download?devicename=rt-ax89x&firmware=asus_official)

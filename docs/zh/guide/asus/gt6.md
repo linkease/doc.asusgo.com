@@ -16,3 +16,5 @@
 
 #### 三、支持机型
 本固件仅支持华硕 ROG魔方幻（GT6），其它机型请勿使用本固件！
+
+* [点击下载 ROG 魔方幻(GT6) 改版固件](https://www.asusgo.com/firmware/download?devicename=gt6&firmware=asus_official)<
