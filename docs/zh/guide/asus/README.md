@@ -1,6 +1,6 @@
 ## 设备预览
 
-目前 [ASUSGO官网](https://www.asusgo.com/firmware) 支持的改版固件机型一览表，附带最新的改版固件版本号。
+目前 [ASUSGO官网](https://www.asusgo.com/firmware) 固件支持机型一览表，附带最新改版固件版本号。
 
 **WiFi7 设备**
 
