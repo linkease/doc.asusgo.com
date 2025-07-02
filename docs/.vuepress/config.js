@@ -94,6 +94,7 @@ module.exports = ctx => ({
                                         ["gt-be98", "GT-BE98"],
                                         ["gt-be96u", "GT-BE96U"],
                                         ["gt-be96", "GT-BE96"],
+                                        ["gt-axe16000", "GT-AXE1600"],
                                         ["gt-ax11000_pro", "GT-AX11000_PRO"],
                                         ["gt-ax11000", "GT-AX11000"],
                                         ["gt-ax6000", "GT-AX6000"], 
