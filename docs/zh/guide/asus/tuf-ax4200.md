@@ -16,6 +16,6 @@
 * [A 系列 ——>> 华硕官改](/zh/guide/asus/firmware-a.md)
 
 #### 三、支持机型
-本固件仅支持华硕小旋风PRO（TX-AX4200Q），其它机型请勿使用本固件！
+* 本固件仅支持华硕 TUF-AX4200 机型，其它机型请勿使用本固件！
 
 * [点击下载 TUF-AX4200 改版固件](https://www.asusgo.com/firmware/download?devicename=tuf-ax4200&firmware=asus_official)
