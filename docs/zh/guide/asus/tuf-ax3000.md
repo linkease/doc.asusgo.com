@@ -17,3 +17,5 @@
 
 #### 三、支持机型
 * 本固件仅支持华硕 TUF-AX3000_V1 机型，其它机型请勿使用本固件！
+
+* [点击下载 TUF-AX3000 改版固件](https://www.asusgo.com/firmware/download?devicename=tuf-ax3000&firmware=merlin)

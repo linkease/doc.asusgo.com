@@ -17,3 +17,5 @@
 
 #### 三、支持机型
 * 本固件仅支持华硕 RT-AX56U_V2 机型，其它机型请勿使用本固件！
+
+* [点击下载 RT-AX56U_V2 改版固件](https://www.asusgo.com/firmware/download?devicename=rt-ax56u_v2&firmware=asus_official)

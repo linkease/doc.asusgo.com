@@ -15,4 +15,6 @@
 * [A 系列 ——>> 华硕官改](/zh/guide/asus/firmware-a.md)
 
 #### 三、支持机型
-* 本固件仅支持华硕TUF-AX5400_V2机型，其它机型请勿使用本固件！
+* 本固件仅支持华硕 TUF-AX5400_V2 机型，其它机型请勿使用本固件！
+
+* [点击下载 TUF-AX5400_V2 改版固件](https://www.asusgo.com/firmware/download?devicename=tuf-ax5400_v2&firmware=asus_official)

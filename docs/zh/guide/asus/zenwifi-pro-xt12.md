@@ -12,3 +12,5 @@
 
 #### 三、支持机型
 * 本固件仅支持华硕 ZenWiFi-Pro-XT12 机型，其它机型请勿使用本固件！
+
+* [点击下载 ZENWIFI-PRO-XT12 改版固件](https://www.asusgo.com/firmware/download?devicename=zenwifi-pro-xt12&firmware=merlin)
