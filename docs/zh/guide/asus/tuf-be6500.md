@@ -23,3 +23,5 @@ nvram set DOWNGRADE_CHECK_PASS=1
 
 #### 三、支持机型
 * 本固件仅支持华硕 TUF-BE6500 机型，其它机型请勿使用本固件！
+
+* [点击下载 TUF-BE6500 改版固件](https://www.asusgo.com/firmware/download?devicename=tuf-be6500&firmware=asus_official)
