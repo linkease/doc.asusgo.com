@@ -24,3 +24,5 @@ nvram set DOWNGRADE_CHECK_PASS=1
 
 #### 三、支持机型
 * 本固件仅支持华硕 GT-BE96 机型，名称华硕八爪鱼7，其它机型请勿使用本固件！
+
+* [点击下载 GT-BE96 改版固件](https://www.asusgo.com/firmware/download?devicename=gt-be96&firmware=asus_official)

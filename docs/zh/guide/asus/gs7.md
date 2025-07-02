@@ -21,3 +21,5 @@
 
 #### 三、支持机型
 本固件仅支持华硕 ROG魔盒（GS7），其它机型请勿使用本固件！
+
+* [点击下载 ROG 魔盒(GS7) 改版固件](https://www.asusgo.com/firmware/download?devicename=gs7&firmware=asus_official)
