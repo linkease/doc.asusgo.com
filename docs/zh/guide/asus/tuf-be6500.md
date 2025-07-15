@@ -13,11 +13,7 @@
 * 注意2：欢迎转载本帖，但是请一定尊重开发组的成果，注明本帖来源！！！
 
 #### 二、固件特色
-* TUF-BE6500 最新官方固件有降级检测机制，建议刷入固件前，利用 SSH 关闭固件降级检测;
-* **SSH 登录路由器后台后输入命令：**
-```
-nvram set DOWNGRADE_CHECK_PASS=1
-```
+* TUF-BE6500 最新官方固件有降级检测机制，TUF-BE6500 比较特殊，需利用 **[官方救援模式降级](https://mp.weixin.qq.com/s/zMTRnGBGwnkKbA2fUJar0Q)** 刷入。 
 
 * [A 系列 ——>> 华硕官改](/zh/guide/asus/firmware-a.md)
 

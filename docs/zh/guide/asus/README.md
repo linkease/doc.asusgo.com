@@ -53,6 +53,8 @@
 ```
 nvram set DOWNGRADE_CHECK_PASS=1
 ```
+* TUF-BE6500 比较特殊，SSH 解除命令无效，需利用 **[官方救援模式降级](https://mp.weixin.qq.com/s/zMTRnGBGwnkKbA2fUJar0Q)** 刷入。
+
 
 #### A. 原厂固件 → 改版固件：
 * 如无特殊说明，刷机完成后不用恢复出产设置，当然恢复一次更好！
