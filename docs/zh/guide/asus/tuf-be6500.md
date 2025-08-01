@@ -22,7 +22,9 @@
 * 注意2：欢迎转载本帖，但是请一定尊重开发组的成果，注明本帖来源！！！
 
 #### 二、固件特色
-* TUF-BE6500 最新官方固件有降级检测机制，TUF-BE6500 比较特殊，需利用 **[官方救援模式降级](https://mp.weixin.qq.com/s/zMTRnGBGwnkKbA2fUJar0Q)** 刷入。 
+* TUF-BE6500 最新官方固件有降级检测机制，TUF-BE6500 比较特殊，需利用 **[官方救援模式](https://mp.weixin.qq.com/s/zMTRnGBGwnkKbA2fUJar0Q)** 降级初版官方固件后刷入。
+
+* [TUF-BE6500 降级刷官改视频教程](https://www.bilibili.com/video/BV1ubbfzzE5q)
 
 * [A 系列 ——>> 华硕官改](/zh/guide/asus/firmware-a.md)
 

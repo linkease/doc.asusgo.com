@@ -68,14 +68,24 @@ module.exports = ctx => ({
                 sidebar: {
                     '/zh/guide/asus/': [
                         {
-                            title: "文档列表",
+                            title: "ASUSGO",
                             // 显示所有页面的标题链接
                             displayAllHeaders: true,
                             // 展开状态
                             collapsable: true,
                             sidebarDepth: 2,
                             children: [
-                                ["", "刷机说明"], 
+                                {
+                                    title: "刷机说明", collapsable: true, children: [
+                                        ["flash/flash_info", "刷机术语"],
+                                        ["flash/flash_prepare", "刷机准备"],
+                                        ["flash/flash_start", "开始刷机"],
+                                        ["flash/flash_matter", "注意事项"],
+                                        ["flash/flash_command", "重要命令"]
+                                    ]
+                                },
+
+
                                 {
                                     title: "更新日志", collapsable: true, children: [
                                         ["changelog/m_102.4_0", "102.4"] 
