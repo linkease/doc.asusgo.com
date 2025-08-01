@@ -89,7 +89,7 @@ module.exports = ctx => ({
                                     ]
                                 },
                                 {
-                                    title: "详情设备", collapsable: true, children: [
+                                    title: "设备详情", collapsable: true, children: [
                                         ["gt-be98_pro", "GT-BE98_PRO"],
                                         ["gt-be98", "GT-BE98"],
                                         ["gt-be96u", "GT-BE96U"],
@@ -97,7 +97,8 @@ module.exports = ctx => ({
                                         ["gt-axe16000", "GT-AXE1600"],
                                         ["gt-ax11000_pro", "GT-AX11000_PRO"],
                                         ["gt-ax11000", "GT-AX11000"],
-                                        ["gt-ax6000", "GT-AX6000"], 
+                                        ["gt-ax6000", "GT-AX6000"],
+                                        ["gs7_pro", "ROG魔盒_PRO(GS7Pro)"],                           
                                         ["gs7", "ROG魔盒(GS7)"],                           
                                         ["gt6", "ROG魔方幻(GT6)"],
                                 
