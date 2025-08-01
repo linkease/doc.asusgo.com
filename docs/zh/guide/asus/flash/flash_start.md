@@ -15,7 +15,7 @@
 
 #### D. 降级检测
 * 目前众多机型最新官方固件 **（3006.102_37000及更高版本）** 有降级检测机制，统一建议：刷入改版固件前，利用 SSH 关闭固件降级检测！
-* 查看[重要命令](/zh/guide/asus/flash/flash_command.html)如何启用/使用 SSH；
+* 查看 [重要命令](/zh/guide/asus/flash/flash_command.html) 如何启用/使用 SSH；
 * **SSH 登录路由器后台后输入命令：**
 ```
 nvram set DOWNGRADE_CHECK_PASS=1
@@ -31,6 +31,6 @@ nvram set DOWNGRADE_CHECK_PASS=1
 
 ![image](./image/06.png)
 
-* 上传完毕后开始升级；升级过程中会断网 大约三分钟后重新进入华硕路由器后台。
+* 上传完毕后开始升级；升级过程中会断网，大约三分钟后重新进入华硕路由器后台。
 
 ![image](./image/07.png)
