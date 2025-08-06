@@ -14,7 +14,7 @@
 | 无线速率 | 688Mbps+5765Mbps | 
 | 空间流 | 2.4GHz 2x2; 5GHz 4x4 | 
 | 频宽 | 20/40/80/160 Mhz | 
-| USB接口 | USB 3.0×1 | 
+| USB接口 | USB 3.2 Gen1×1 | 
 
 ## 固件介绍
 #### 一、刷机须知
@@ -32,3 +32,9 @@
 * 本固件仅支持华硕 TUF-BE6500 机型，其它机型请勿使用本固件！
 
 * [点击下载 TUF-BE6500 改版固件](https://www.asusgo.com/firmware/download?devicename=tuf-be6500&firmware=asus_official)
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 
