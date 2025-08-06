@@ -12,9 +12,9 @@
 | 信号放大器 | 8 | 
 | 天线数量 | 8 | 
 | 无线速率 | 1376Mbps+5764Mbps | 
-| 空间流 | 2.4GHz 4x4;5GHz 4x4 | 
+| 空间流 | 2.4GHz 4x4; 5GHz 4x4 | 
 | 频宽 | 20/40/80/160 Mhz | 
-| USB接口 | USB 3.0×1 | 
+| USB接口 | USB 3.2 Gen1×1 | 
 
 ## 固件介绍
 #### 一、刷机须知
@@ -28,3 +28,9 @@
 本固件仅支持华硕 ROG魔盒（GS7），其它机型请勿使用本固件！
 
 * [点击下载 ROG 魔盒(GS7) 改版固件](https://www.asusgo.com/firmware/download?devicename=gs7&firmware=asus_official)
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 
