@@ -1,11 +1,20 @@
 ## 机型介绍
-* AX5700 双频 WiFi 6 电竞路由器, PS5 compatible, 手游模式, 商用级家庭网络安全, 支持 Mesh WiFi
-* 智能组网技术, 2.5G 网口, 电竞专属接口, Adaptive OoS, 端口转发 新一代 WiFi 6 技术 – 支持 WiFi 6 (802.11ax) 标准和160MHz通道，无线速率高达 5700 Mbps
-* 手游模式 – 通过华硕路由器APP开启手游加速模式，大幅降低手游中延时与卡顿，享有畅快的游戏体验
-* 2Gbps有线及无线速度 – 聚合2Gbps WAN 连接, 有线2.5Gbps网口及WiFi 6
-* 华硕AiMesh大户型智能组网 – 支持与更多高性能华硕路由组网，无缝漫游
-* 网络安全战盾 – 搭载Trend Micro™ 支持的 AiProtection
-* 商业级安全防护功能，WPA3无线加密协议及先进的家长控制功能，大幅提升家庭网络安全性
+
+| 型号 | RT-AX86U |
+|:--:|:--:|
+| 无线协议 | WiFi 6 | 
+| 处理器 | 博通BCM4908 四核1.8GHz | 
+| 内存 | 1GB | 
+| 10G网口 | 0 | 
+| 10G SFP+ | 0 | 
+| 2.5G网口 | 1 | 
+| 1G网口 | 5 | 
+| 信号放大器 | 7 | 
+| 天线数量 | 4 | 
+| 无线速率 | 861Mbps+4048Mbps | 
+| 空间流 | 2.4GHz 3x3; 5GHz 4x4 | 
+| 频宽 | 20/40/80/160 Mhz | 
+| USB接口 | USB 3.0×2 | 
 
 ## 固件介绍
 #### 一、刷机须知
@@ -20,3 +29,9 @@
 * 本固件仅支持华硕 RT-AX86U 机型，其它机型请勿使用本固件！
 
 * [点击下载 RT-AX86U 改版固件](https://www.asusgo.com/firmware/download?devicename=rt-ax86u&firmware=merlin)
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 
