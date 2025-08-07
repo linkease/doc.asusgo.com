@@ -1,10 +1,20 @@
 ## 机型介绍
-* ROG 魔方幻三频 WiFi 6 Mesh WiFi 系统，589 平米覆盖范围，2.5G 网口，三层游戏提速，ASUS RangeBoost Plus，商业级安全防护系统
-* 高效性能 – WiFi 6 三频 mesh 系统搭配专用高性能回程和 160 MHz 通道提供高达 10,000 Mbps 数据传输速度
-* 更广的覆盖范围 – 9根内置天线结合 ASUS RangeBoost Plus 技术可覆盖 589 平米
-* 疾速有线连接 – 通过 2.5Gbps WAN 接口和 LAN 聚合，享受高达2.5倍速率有线连接
-* 三层游戏提速 – 可逐步提升游戏流量 ，从您的设备到游戏服务器
-* 网络安全战盾 - 搭配由趋势科技™ 提供支持的 AiProtection Pro; ASUS Instant Guard 为您所使用的公用 WiFi 连接加入强大的安全性
+
+| 型号 | GT6 AX10000 三频 |
+|:--:|:--:|
+| 无线协议 | WiFi 6 | 
+| 处理器 | 博通BCM6753 1.7GHz | 
+| 内存 | 512M | 
+| 10G网口 | 0 | 
+| 10G SFP+ | 0 | 
+| 2.5G网口 | 1 | 
+| 1G网口 | 3 | 
+| 信号放大器 | 6 | 
+| 天线数量 | 9 | 
+| 无线速率 | 574Mbps+4804Mbps+4804Mbps | 
+| 空间流 | 2.4GHz 2x2; 5GHz 4x4; 5GHz 4x4 | 
+| 频宽 | 20/40/80/160 Mhz | 
+| USB接口 | USB 3.0×1 | 
 
 ## 固件介绍
 #### 一、刷机须知
@@ -17,4 +27,10 @@
 #### 三、支持机型
 本固件仅支持华硕 ROG魔方幻（GT6），其它机型请勿使用本固件！
 
-* [点击下载 ROG 魔方幻(GT6) 改版固件](https://www.asusgo.com/firmware/download?devicename=gt6&firmware=asus_official)<
+* [点击下载 ROG 魔方幻(GT6) 改版固件](https://www.asusgo.com/firmware/download?devicename=gt6&firmware=asus_official)
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 
