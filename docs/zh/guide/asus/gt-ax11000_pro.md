@@ -1,10 +1,20 @@
 ## 机型介绍
-* GT-AX11000 Pro 三频 WiFi 6 电竞路由器, 2.5G 网口, 10G 网口, 增强型硬件, ASUS RangeBoost Plus, 5.9 GHz, 三段游戏加速, 商业级安全防护及支持 AiMesh
-* WiFi 6 三频提升速度可高达 11,000 Mbps，具备 160 MHz 通道提供更好的效率和吞吐量
-* 新一代 ASUS RangeBoost Plus 技术提升信号范围和总覆盖范围
-* 具备一个 2.5G 网口和一个 10G 网口，可设置为 WAN 或 LAN 运行
-* 配备 2.0 GHz 四核 64 位处理器，具备强大的性能，即使是要求严苛的游戏网络也能轻松应对
-* 三层游戏提速，从 PC 到游戏服务器，在线游戏的每个阶段均可获得网络优先级
+
+| 型号 | GT-AX11000 Pro 三频 |
+|:--:|:--:|
+| 无线协议 | WiFi 6 | 
+| 处理器 | 博通BCM4912 2.0GHz | 
+| 内存 | 1GB | 
+| 10G网口 | 1 | 
+| 10G SFP+ | 0 | 
+| 2.5G网口 | 1 | 
+| 1G网口 | 4 | 
+| 信号放大器 | 8 | 
+| 天线数量 | 8 | 
+| 无线速率 | 1148Mbps+4804Mbps+4804Mbps | 
+| 空间流 | 2.4GHz 4x4; 5GHz 4x4; 5GHz 4x4 | 
+| 频宽 | 20/40/80/160 Mhz | 
+| USB接口 | USB 3.0×1、USB 2.0 × 1 | 
 
 ## 固件介绍
 #### 一、刷机须知
@@ -19,3 +29,9 @@
 * 本固件仅支持华硕 GT-AX11000_PRO 机型，其它机型请勿使用本固件！
 
 * [点击下载 GT-AX11000_PRO 改版固件](https://www.asusgo.com/firmware/download?devicename=gt-ax11000_pro&firmware=merlin)
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 
