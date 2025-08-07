@@ -3,7 +3,7 @@
 | 型号 | ROG 魔盒 BE7200 |
 |:--:|:--:|
 | 无线协议 | WiFi 7 | 
-| 处理器 | MediaTek 1.8GHz AI | 
+| 处理器 | MTK MT7988DV 1.8GHz | 
 | 内存 | 2GB | 
 | 10G网口 | 0 | 
 | 10G SFP+ | 0 | 
