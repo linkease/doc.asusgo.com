@@ -1,9 +1,20 @@
 ## 机型介绍
-* WIFI6双频AX6000M疾速电竞路由 新一代 WIFI6 标准 - WIFI6 (802.11ax)标准提供更高效率与更大吞吐量
-* 疾速 WIFI6 速度 - 无线可达双频6000M，轻松应对繁重网络需求 更广更便捷 - 8根天线 + 8个LAN网口，可同时支持更多的客户端
-* 双 10G 网口 - 享受高达10倍快的数据传输速度，采用 10GBase-T 和 10G SFP+ 解决方案
-* 网络安全战盾 - 搭载Trend Micro™ 支持的 AiProtection Pro 商业级安全防护功能
-* 华硕AiMesh大户型智能组网 - 支持与更多高性能华硕路由组网，无缝漫游
+
+| 型号 | RT-AX89X 帝王蟹 |
+|:--:|:--:|
+| 无线协议 | WiFi 6 | 
+| 处理器 | 高通IPQ8074 四核2.2GHz | 
+| 内存 | 1GB | 
+| 10G网口 | 1 | 
+| 10G SFP+ | 1 | 
+| 2.5G网口 | 0 | 
+| 1G网口 | 9 | 
+| 信号放大器 | 12 | 
+| 天线数量 | 8 | 
+| 无线速率 | 1148Mbps+4804Mbps | 
+| 空间流 | 2.4GHz 4x4; 5GHz 8x8 | 
+| 频宽 | 20/40/80/160 Mhz | 
+| USB接口 | USB 3.0×1 | 
 
 ## 固件介绍
 #### 一、刷机须知
@@ -17,3 +28,9 @@
 * 本固件仅支持华硕 RT-AX89X 机型，其它机型请勿使用本固件！
 
 * [点击下载 RT-AX89X 改版固件](https://www.asusgo.com/firmware/download?devicename=rt-ax89x&firmware=asus_official)
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 
