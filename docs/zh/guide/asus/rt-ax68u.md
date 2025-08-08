@@ -1,9 +1,20 @@
 ## 机型介绍
-* AX2700 双频 WiFi 6 (802.11ax) 无线路由器配备 AiProtection Pro 智能网络卫士、先进的家长控制功能、WAN 聚合功能，ASUS Router app 让您轻松设置和管理
-* 全新 WiFi 6 标准- 通过 WiFi 6 (802.11ax) 享受高达 2700 Mbps 的无线速率
-* 商业级家庭网络安全 – 搭载由 Trend Micro™ 提供支持的华硕 AiProtection Pro，具备 WPA3 保护家庭上网安全
-* 先进的家长控制功能 - 针对不同的年龄群组自行设置，为您的孩子提供允许访问的网址
-* 华硕AiMesh大户型智能组网 – 通过兼容于 AiMesh 的路由器建立灵活且无缝的全屋网状网络
+
+| 型号 | RT-AX68U |
+|:--:|:--:|
+| 无线协议 | WiFi 6 | 
+| 处理器 | 博通BCM4906 双核1.8GHz | 
+| 内存 | 512M | 
+| 10G网口 | 0 | 
+| 10G SFP+ | 0 | 
+| 2.5G网口 | 0 | 
+| 1G网口 | 5 | 
+| 信号放大器 | 6 | 
+| 天线数量 | 3 | 
+| 无线速率 | 861Mbps+1802Mbps | 
+| 空间流 | 2.4GHz 3x3; 5GHz 3x3 | 
+| 频宽 | 20/40/80/160 Mhz | 
+| USB接口 | USB 3.0×1、USB 2.0 × 1 | 
 
 ## 固件介绍
 #### 一、刷机须知
@@ -18,3 +29,9 @@
 * 本固件仅支持华硕 RT-AX68U 机型，其它机型请勿使用本固件！
 
 * [点击下载 RT-AX68U 改版固件](https://www.asusgo.com/firmware/download?devicename=rt-ax68u&firmware=merlin)
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 
