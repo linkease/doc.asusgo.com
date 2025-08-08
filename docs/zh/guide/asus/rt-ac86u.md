@@ -1,11 +1,20 @@
 ## 机型介绍
-* AC2900 双频千兆无线电竞路由器, 支持 MU-MIMO, AiMesh WiFi 智能组网技术, 由 Trend Micro 提供支持的 AiProtection Pro 商用级家庭网络安全, 手游模式和 Adaptive QoS
-* 疾速游戏体验 - 内置手游模式和智能流量管理(Adaptive QoS)，提供低延迟的在线游戏体验和顺畅的 4K UHD 串流
-* 疾速 Wi-Fi - 通过 NitroQAM™ 技术加速 AC2900 W-Fi，5GHz quad-stream 技术轻松处理繁忙的家庭网络
-* * 更广的覆盖 – 高性能天线，华硕 AiRadar 和 Range Boost 会消除信号死角，而 MU-MIMO 技术将提供多设备传输性能更大化
-* 强大处理器 – 台式机级 1.8GHz 64bit双核处理器，让您享受更顺畅的网络连接和更快的数据传输速度
-* 企业级安全性 – 搭载与 Trend Micro™ 合作的 AiProtection 三重安防系统，可封锁所有会危害手机/计算机/平板的病毒及网络安全威胁
-* 支持 AiMesh– 连接到其他兼容的华硕路由器，打造家庭Wi-Fi网络
+
+| 型号 | RT-AC86U |
+|:--:|:--:|
+| 无线协议 | WiFi 5 | 
+| 处理器 | 博通BCM4906 双核1.8GHz | 
+| 内存 | 512M | 
+| 10G网口 | 0 | 
+| 10G SFP+ | 0 | 
+| 2.5G网口 | 0 | 
+| 1G网口 | 5 | 
+| 信号放大器 | 7 | 
+| 天线数量 | 4 | 
+| 无线速率 | 750Mbps+2167Mbps | 
+| 空间流 | 2.4GHz 3x3; 5GHz 4x4 | 
+| 频宽 | 20/40/80 Mhz | 
+| USB接口 | USB 3.0×1、USB 2.0 × 1 | 
 
 ## 固件介绍
 #### 一、刷机须知
@@ -20,3 +29,9 @@
 * 本固件仅支持华硕 RT-AC86U 机型，其它机型请勿使用本固件！
 
 * [点击下载 RT-AC86U 改版固件](https://www.asusgo.com/firmware/download?devicename=rt-ac86u&firmware=merlin)
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 
