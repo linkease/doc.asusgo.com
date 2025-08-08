@@ -1,11 +1,20 @@
 ## 机型介绍
-* TUF小旋风 Pro 双频 WiFi 6 电竞路由器支持手游加速，端口转发，双 2.5G 网口, AiMesh 2.0 大户型随心组网, AiProtection Pro 商业级安防系统
-* MTK 2.0G - 旗舰级芯片
-* 双2.5G口 - 强劲吞吐
-* 三段式游戏加速 - 全平台加速
-* ASUS AiMesh 2.0 大户型随心组网
-* AiProtection Pro - 商业级安防系统
-* 三年质保 - 高品质 敢保三年
+
+| 型号 | TUF-AX4200 小旋风 Pro |
+|:--:|:--:|
+| 无线协议 | WiFi 6 | 
+| 处理器 | MTK MT7986A 四核2.0GHz | 
+| 内存 | 512M | 
+| 10G网口 | 0 | 
+| 10G SFP+ | 0 | 
+| 2.5G网口 | 2 | 
+| 1G网口 | 4 | 
+| 信号放大器 | 5 | 
+| 天线数量 | 4 | 
+| 无线速率 | 574Mbps+3603Mbps | 
+| 空间流 | 2.4GHz 2x2; 5GHz 3x3 | 
+| 频宽 | 20/40/80/160 Mhz | 
+| USB接口 | USB 3.0×1 | 
 
 ## 固件介绍
 #### 一、刷机须知
@@ -19,3 +28,9 @@
 * 本固件仅支持华硕 TUF-AX4200 机型，其它机型请勿使用本固件！
 
 * [点击下载 TUF-AX4200 改版固件](https://www.asusgo.com/firmware/download?devicename=tuf-ax4200&firmware=asus_official)
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 

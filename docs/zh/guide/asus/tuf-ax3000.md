@@ -1,10 +1,20 @@
 ## 机型介绍
-* 华硕 TUF GAMING AX3000 Wi-Fi 6 电竞特工路由
-* 新一代 Wi-Fi 6 标准— Wi-Fi 6 (802.11ax)标准提供更高效率与更大吞吐量
-* 有线无线皆可战 —专属电竞网口，内置UU主机游戏+PC游戏加速
-* 甄别优质游戏节点 —Open NAT端口转发，始终处于低延时，先发制人
-* 华硕AiMesh大户型智能组网 —支持与更多高性能华硕路由组网，无缝漫游
-* 军工级用料，经久耐用 — TUF GAMING AX3000经过严苛的认证测试，保证稳定且可靠的运行
+
+| 型号 | TUF-AX3000 小旋风 |
+|:--:|:--:|
+| 无线协议 | WiFi 6 | 
+| 处理器 | 博通BCM6750 三核1.5GHz | 
+| 内存 | 512M | 
+| 10G网口 | 0 | 
+| 10G SFP+ | 0 | 
+| 2.5G网口 | 0 | 
+| 1G网口 | 5 | 
+| 信号放大器 | 6 | 
+| 天线数量 | 4 | 
+| 无线速率 | 574Mbps+2402Mbps | 
+| 空间流 | 2.4GHz 2x2; 5GHz 2x2 | 
+| 频宽 | 20/40/80/160 Mhz | 
+| USB接口 | USB 3.0×1 | 
 
 ## 固件介绍
 #### 一、刷机须知
@@ -19,3 +29,9 @@
 * 本固件仅支持华硕 TUF-AX3000_V1 机型，其它机型请勿使用本固件！
 
 * [点击下载 TUF-AX3000 改版固件](https://www.asusgo.com/firmware/download?devicename=tuf-ax3000&firmware=merlin)
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 
