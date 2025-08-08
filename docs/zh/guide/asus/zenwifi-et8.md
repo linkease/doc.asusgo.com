@@ -15,3 +15,9 @@
 
 #### 三、支持机型
 * 本固件仅支持华硕 ZenWiFi-ET8（RT-AXE95Q）机型，其它机型请勿使用本固件！
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 

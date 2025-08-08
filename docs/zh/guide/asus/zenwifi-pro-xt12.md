@@ -1,6 +1,21 @@
 ## 机型介绍
-* 灵耀Pro AX11000 是一款 WiFi 6 分布式三频无线路由器，实现了科技与艺术的融合。配备强大的性能与日常娱乐能力，将家庭网络提升到新的水平，满足大户型及别墅的应用需求
-* WiFi6 为灵耀Pro AX11000 提供了相比上—代4倍的容量和2倍的速度，网络效率大幅提升。两条 4 x 4 160MHz 高速通道,支持OFDMA,台式机、笔记本电脑、智能手机、NAS，再多一点也不怕
+
+| 型号 | 灵耀 Pro AX11000（XT12 ）三频 |
+|:--:|:--:|
+| 无线协议 | WiFi 6 | 
+| 处理器 | 博通BCM4912 四核2.0GHz | 
+| 内存 | 1GB | 
+| 10G网口 | 0 | 
+| 10G SFP+ | 0 | 
+| 2.5G网口 | 2 | 
+| 1G网口 | 2 | 
+| 信号放大器 | 8 | 
+| 天线数量 | 10 | 
+| 无线速率 | 1148Mbps+4804Mbps+4804Mbps | 
+| 空间流 | 2.4GHz 4x4; 5GHz 4x4; 5GHz 4x4 | 
+| 频宽 | 20/40/80/160 Mhz | 
+| USB接口 | — | 
+
 
 ## 固件介绍
 #### 一、刷机须知
@@ -14,3 +29,9 @@
 * 本固件仅支持华硕 ZenWiFi-Pro-XT12 机型，其它机型请勿使用本固件！
 
 * [点击下载 ZENWIFI-PRO-XT12 改版固件](https://www.asusgo.com/firmware/download?devicename=zenwifi-pro-xt12&firmware=merlin)
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 
