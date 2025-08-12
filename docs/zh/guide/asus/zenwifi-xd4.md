@@ -1,10 +1,22 @@
 ## 机型介绍
-* 灵耀魔方 Pro WiFi6 AX3000, 全屋 Mesh WiFi 6 系统 – 覆盖可达约465平方米 / 5+ 房间, 轻松设置, 免费的网络安全和家长控制
-* WiFi 6 — 让您的 WiFi 高速传输，总速度高达 3000 Mbps
-* 简约设计 — 支持壁挂安装，可轻松挂到墙上或放置到各种位置，由您做主
-* 设置简单 — 使用华硕路由器 App 只需三步即可完成设置
-* 为全屋连网安全 — 可自动更新固件并随时与 Trend Micro 云端数据库进行同步，确保家庭网络安全
-* 支持 AiMesh 技术 — 轻松设置、灵活管理
+
+| 型号 | 灵耀小魔方 AX1800（XD4 ） |
+|:--:|:--:|
+| 无线协议 | WiFi 6 | 
+| 处理器 | 博通 四核 | 
+| 内存 | 256M | 
+| 10G网口 | 0 | 
+| 10G SFP+ | 0 | 
+| 2.5G网口 | 0 | 
+| 1G网口 | 2 | 
+| 信号放大器 | 4 | 
+| 天线数量 | 2 | 
+| 无线速率 | 574Mbps+1201Mbps | 
+| 空间流 | 2.4GHz 2x2; 5GHz 2x2 | 
+| 频宽 | 20/40/80 Mhz | 
+| USB接口 | — | 
+
+
 
 ## 固件介绍
 #### 一、刷机须知
@@ -18,3 +30,9 @@
 * 本固件仅支持华硕 ZenWiFi-XD4 机型，其它机型请勿使用本固件！
 
 * [点击下载 ZENWIFI-XD4 改版固件](https://www.asusgo.com/firmware/download?devicename=zenwifi-xd4&firmware=asus_official)
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 

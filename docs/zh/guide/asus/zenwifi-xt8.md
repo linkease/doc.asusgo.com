@@ -1,10 +1,20 @@
 ## 机型介绍
-* AX6600 三频WiFi 6全屋网状WiFi系统 – 最大涵盖150坪 / 6 个以上的房间、6Gbps WiFi、终身免费网路安全与家长控制功能、4X Gigabit 网路埠、3 个 SSID 消除 WiFi 讯号死角
-* 三频网状 WiFi 系统与独特天线配置可为住家的每个角落带来强大的 WiFi 讯号，以提供 6600Mbps 的总体无线传输速度。
-* 全新Mesh系统 – 轻松架构全屋无线讯号，可任意游走无缝切换不断线，更可依需求灵活扩充设备，同步支援独家AiMesh功能
-* 轻松简易的控制 – 使用 ASUS Router App 只需 3 步骤即可完成设定并轻松管理。
-* 持续更新的防护功能 — 由 Trend Micro™ 提供的终身免费网路安全功能，确保您连网装置的隐私受到保护
-* 家长控制功能 — URL 过滤与排程功能可让您保护家人以避免浏览不当的内容，以及不健康的网际网路使用方式
+
+| 型号 | 灵耀 AX6600（XT8 ）三频 |
+|:--:|:--:|
+| 无线协议 | WiFi 6 | 
+| 处理器 | 博通 四核1.5GHz | 
+| 内存 | 512M | 
+| 10G网口 | 0 | 
+| 10G SFP+ | 0 | 
+| 2.5G网口 | 1 | 
+| 1G网口 | 3 | 
+| 信号放大器 | 6 | 
+| 天线数量 | 6 | 
+| 无线速率 | 574Mbps+1201Mbps+4804Mbps | 
+| 空间流 | 2.4GHz 2x2; 5GHz 2x2; 5GHz 4x4 | 
+| 频宽 | 20/40/80/160 Mhz | 
+| USB接口 | USB 3.0×1 | 
 
 ## 固件介绍
 #### 一、刷机须知
@@ -19,3 +29,9 @@
 * 本固件仅支持华硕 ZenWiFi-XT8 机型，其它机型请勿使用本固件！
 
 * [点击下载 ZENWIFI-XT8 改版固件](https://www.asusgo.com/firmware/download?devicename=zenwifi-xt8&firmware=merlin)
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 
