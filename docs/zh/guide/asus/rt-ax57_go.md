@@ -1,10 +1,20 @@
 ## 机型介绍
-* AX3000双频WiFi 6 (802.11ax)可携式路由器，支持4G和5G 移动网络共享和公共WiFi (WISP) 模式、免费的商用级安防系统、AiMesh大户型组网、专业访客网络、支持壁挂
-* 通过4G/5G移动网络共享、公共WiFi（WISP模式）、私人热点以及路由器模式，实现旅行、工作和家庭多种联网方式
-* 具有160MHz通道的超快WiFi 6大幅提高网络容量，支持多达70台设备同时连接，双频并发3000Mbps
-* 采用由Trend Micro™支持的AiProtection Classic商用级安防系统，一键安全扫描，保护您的网络安全
-* 华硕路由器APP只需3步骤，轻松完成设置，无忧管理
-* AiMesh大户型组网，支持与华硕在售路由灵活组网，实现全屋覆盖专业访客网络，可根据联网对象设置使用权限及带宽
+
+| 型号 | RT-AX57 Go |
+|:--:|:--:|
+| 无线协议 | WiFi 6 | 
+| 处理器 | MTK MT7981BA 双核1.3GHz | 
+| 内存 | 512M | 
+| 10G网口 | 0 | 
+| 10G SFP+ | 0 | 
+| 2.5G网口 | 0 | 
+| 1G网口 | 2 | 
+| 信号放大器 | 2 | 
+| 天线数量 | 5 | 
+| 无线速率 | 574Mbps+2402Mbps | 
+| 空间流 | 2.4GHz 2x2; 5GHz 2x2 | 
+| 频宽 | 20/40/80/160 Mhz | 
+| USB接口 | USB 3.0×1 | 
 
 ## 固件介绍
 #### 一、刷机须知
@@ -18,3 +28,9 @@
 * 本固件仅支持华硕 RT-AX57_GO 机型，其它机型请勿使用本固件！
 
 * [点击下载 RT-AX57_GO 改版固件](https://www.asusgo.com/firmware/download?devicename=rt-ax57_go&firmware=asus_official)
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 

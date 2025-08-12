@@ -1,10 +1,20 @@
 ## 机型介绍
-* AX1800双频WiFi 6 (802.11ax)路由器支援MU-MIMO与OFDMA技术，并有Trend Micro™所提供的AiProtection Pro网路安全技术，与ASUS AiMesh WiFi系统相容
-* 次世代的WiFi 6标准－－支援最新Wi-Fi标准802.11 (Wi-Fi 6)与80MHz频宽，容量更大、效率更高
-* 超快WiFi速度－－RT-AX56U支援80MHz频宽与1024-QAM，无线连线速度有戏剧性的提升。总网路连线速度约为1800Mbps，2.4GHz频为574 Mbps， 5GHz频为1201 Mbps 
-* 容量与效率提升－－不仅支援MU-MIMO，还有OFDMA技术，能够有效率地分配频道，同时与多种设备沟通 
-* 商业级安全－－由趋势科技Trend Micro™所提供的AiProtection终生免费，为您所有连线的智慧设备阻挡网际网路安全威胁
-* 与Mesh System搭配更佳－－与ASUS AiMesh WiFi系统相容，可依需求弹性扩充家中网路
+
+| 型号 | RT-AX58U |
+|:--:|:--:|
+| 无线协议 | WiFi 6 | 
+| 处理器 | 博通BCM6750 三核1.5GHz | 
+| 内存 | 512M | 
+| 10G网口 | 0 | 
+| 10G SFP+ | 0 | 
+| 2.5G网口 | 0 | 
+| 1G网口 |  5 | 
+| 信号放大器 | 4 | 
+| 天线数量 | 4 | 
+| 无线速率 | 574Mbps+2402Mbps | 
+| 空间流 | 2.4GHz 2x2; 5GHz 2x2 | 
+| 频宽 | 20/40/80/160 Mhz | 
+| USB接口 | USB 3.0×1 | 
 
 ## 固件介绍
 #### 一、刷机须知
@@ -18,3 +28,9 @@
 * 本固件仅支持华硕 RT-AX58U_V1 机型，其它机型请勿使用本固件！
 
 * [点击下载 RT-AX58U 改版固件](https://www.asusgo.com/firmware/download?devicename=rt-ax58u&firmware=merlin)
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 

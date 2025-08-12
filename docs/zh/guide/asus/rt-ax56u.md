@@ -1,11 +1,20 @@
 ## 机型介绍
-* AX1800 双频 WiFi 6 (802.11ax) 路由器支持 MU-MIMO 和 OFDMA 技术，搭载 Trend Micro™ 所提供的 AiProtection Classic
-* 商业级安全防护功能，支持华硕 AiMesh WiFi 智能组网系统 新一代 WiFi 6 (802.11ax) 标准- 支持 WIFI6 (802.11ax) 
-* 标准提供更好的网络性能与效率 疾速 Wi-Fi 速度– RT-AX56U热血版支持 1024-QAM，无线连接速度得到显著提升
-* 组合速度高达 1800Mbps — 其中 2.4GHz 频段为 574 Mbps，而 5GHz 频段为 1201 Mbps
-* 提升网络效率与性能– 支持多用户多入多出技术(MU-MIMO)和正交频分多址技术(OFDMA)，可高效地分配信道，同时与多种设备通信
-* 网络安全战盾– 搭载Trend Micro™ 支持的 AiProtection 商业级安全防护功能，为所有连网的智能设备提供网络安全防护
-* Mesh系统的好搭档- 利用现有路由器轻松打造 AiMesh WiFi 系统 NitroQAM™ (1024-QAM) 技术 - NitroQAM™ (1024-QAM) 数据效率比 256-QAM 标准提高约 25%
+
+| 型号 | RT-AX56U |
+|:--:|:--:|
+| 无线协议 | WiFi 6 | 
+| 处理器 | 博通BCM6755 四核1.5GHz | 
+| 内存 | 512M | 
+| 10G网口 | 0 | 
+| 10G SFP+ | 0 | 
+| 2.5G网口 | 0 | 
+| 1G网口 | 5 | 
+| 信号放大器 | 4 | 
+| 天线数量 | 2 | 
+| 无线速率 | 574Mbps+1201Mbps | 
+| 空间流 | 2.4GHz 2x2; 5GHz 2x2 | 
+| 频宽 | 20/40/80 Mhz | 
+| USB接口 | USB 3.0×1、USB 2.0 × 1 | 
 
 ## 固件介绍
 #### 一、刷机须知
@@ -19,3 +28,9 @@
 * 本固件仅支持华硕 RT-AX56U_V1 机型，其它机型请勿使用本固件！
 
 * [点击下载 RT-AX56U 改版固件](https://www.asusgo.com/firmware/download?devicename=rt-ax56u&firmware=merlin)
+
+#### 四、刷写固件
+
+[1、刷机准备](/zh/guide/asus/flash/flash_prepare.html) 
+
+[2、开始刷机](/zh/guide/asus/flash/flash_start.html) 
