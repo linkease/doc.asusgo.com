@@ -53,7 +53,8 @@ module.exports = ctx => ({
                 nav: [
                     { text: '产品中心', link: '/' },
                     { text: '设备', link: '/zh/guide/asus/' },
-                    { text: 'FAQ', link: '/zh/guide/FAQ/' },
+                    // { text: 'FAQ', link: '/zh/guide/FAQ/' },
+                    { text: 'FAQ', link: '/post/' },
                     { text: '关于我们', link: 'https://www.linkease.com/about' },
                     {
                         text: '更多产品', items: [
@@ -156,7 +157,7 @@ module.exports = ctx => ({
                             ]
                         },
                     ],
-
+                    
                     '/zh/guide/FAQ/': [
                         {
                             title: "FAQ",
@@ -197,4 +198,58 @@ module.exports = ctx => ({
         docsBranch: 'master',
         editLinks: true,
     },
+     plugins: [
+        ['@vuepress/blog',
+            {
+                directories: [
+                    {
+                        id: 'post',
+                        title: "FAQ",
+                        dirname: '_posts',
+                        path: '/post/',
+                        itemPermalink: '/post/:year/:month/:day/:slug',
+                        layout: "BlogLayout",
+                        pagination: {
+                            prevText: "上一页",
+                            nextText: "下一页",
+                            lengthPerPage: 10,
+                            layout: "BlogLayout",
+                            sorter: (prev, next) => {
+                                const dayjs = require('dayjs');
+                                const prevTime = dayjs(prev.frontmatter.date);
+                                const nextTime = dayjs(next.frontmatter.date);
+                                return prevTime - nextTime > 0 ? -1 : 1;
+                            }
+                        },
+                    },
+                ],
+                frontmatters: [
+                    {
+                        // Unique ID of current classification
+                        // Decide that the frontmatter keys will be grouped under this classification
+                        id: "tag",
+                        keys: ['tag', 'tags'],
+                        // Path of the `entry page` (or `list page`)
+                        path: '/tag/',
+                        // Layout of the `entry page`
+                        title: "标签",
+                        // layout: "BlogLayout",
+                        scopeLayout: 'BlogLayout',
+                        pagination: {
+                            prevText: "上一页",
+                            nextText: "下一页",
+                            lengthPerPage: 10,
+                            layout: "BlogLayout",
+                            sorter: (prev, next) => {
+                                const dayjs = require('dayjs');
+                                const prevTime = dayjs(prev.frontmatter.date);
+                                const nextTime = dayjs(next.frontmatter.date);
+                                return prevTime - nextTime > 0 ? -1 : 1;
+                            }
+                        },
+                    },
+                ],
+            },
+        ],
+    ],
 })
