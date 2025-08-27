@@ -1,3 +1,7 @@
+### <font color="#dd0000">每周三、五 19:30，宝哥与你相约直播间！</font><br />
+
+<img src="./preview/douyin.png" width="320" height="480">
+
 ## 设备预览
 
 目前 [ASUSGO官网](https://www.asusgo.com/firmware) 固件支持机型一览表，附带最新改版固件版本号。
