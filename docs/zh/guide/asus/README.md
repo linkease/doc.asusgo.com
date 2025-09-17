@@ -1,4 +1,4 @@
-### <font color="#dd0000">每周三、五 19:30，宝哥与你相约直播间！</font><br />
+### <font color="#dd0000">每周二、四 19:30，宝哥与你相约直播间！</font><br />
 
 <img src="./preview/douyin.png" width="320" height="480">
 
@@ -30,4 +30,4 @@
 
 | 型号 | 型号 | 型号 |
 |------|------|------|
-| [GT-AC5300](https://www.asusgo.com/firmware/download?devicename=gt-ac5300&firmware=asus_official)<br><small>384_82037</small> | [GT-AC2900](https://www.asusgo.com/firmware/download?devicename=gt-ac2900&firmware=merlin)<br><small>386.10_0</small> | [RT-AC86U](https://www.asusgo.com/firmware/download?devicename=rt-ac86u&firmware=merlin)<br><small>386.10_0</small> |
+| [GT-AC5300](https://www.asusgo.com/firmware/download?devicename=gt-ac5300&firmware=asus_official)<br><small>386_48377</small> | [GT-AC2900](https://www.asusgo.com/firmware/download?devicename=gt-ac2900&firmware=merlin)<br><small>386.10_0</small> | [RT-AC86U](https://www.asusgo.com/firmware/download?devicename=rt-ac86u&firmware=merlin)<br><small>386.10_0</small> |
