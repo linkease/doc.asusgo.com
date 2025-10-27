@@ -2,8 +2,7 @@
 
 <img src="./preview/douyin.png" width="320" height="480">
 
-#### <font color="#dd0000">酷友社论坛已经上线！ https://www.koolcenter.com</font><br />
-#### <font color="#dd0000">欢迎大家加入论坛，交流分享，探索更多乐趣！</font><br />
+#### <font color="#dd0000">酷友社论坛已经上线！欢迎大家[加入论坛](https://www.koolcenter.com)，交流分享，探索更多乐趣！</font><br />
 
 
 ## 设备预览
