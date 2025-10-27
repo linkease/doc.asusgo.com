@@ -2,6 +2,10 @@
 
 <img src="./preview/douyin.png" width="320" height="480">
 
+#### <font color="#dd0000">酷友社论坛已经上线！ https://www.koolcenter.com</font><br />
+#### <font color="#dd0000">欢迎大家加入论坛，交流分享，探索更多乐趣！</font><br />
+
+
 ## 设备预览
 
 目前 [ASUSGO官网](https://www.asusgo.com/firmware) 固件支持机型一览表，附带最新改版固件版本号。
@@ -10,8 +14,9 @@
 
 | 型号 | 型号 | 型号 | 型号 |
 |------|------|------|------|
-| [GT-BE96](https://www.asusgo.com/firmware/download?devicename=gt-be96&firmware=asus_official)<br><small>102_37421</small> | [ROG 魔盒(GS7)](https://www.asusgo.com/firmware/download?devicename=gs7&firmware=asus_official)<br><small>102_56929_r1</small> | [RT-BE88U](https://www.asusgo.com/firmware/download?devicename=rt-be88u&firmware=merlin)<br><small>102.4_0</small> | [RT-BE86U](https://www.asusgo.com/firmware/download?devicename=rt-be86u&firmware=merlin)<br><small>102.4_0</small> |
-| [RT-BE82U](https://www.asusgo.com/firmware/download?devicename=rt-be82u&firmware=asus_official)<br><small>102_38152</small> | [TUF-BE6500](https://www.asusgo.com/firmware/download?devicename=tuf-be6500&firmware=asus_official)<br><small>102_54701</small> | [TUF-BE3600](https://www.asusgo.com/firmware/download?devicename=tuf-be3600&firmware=asus_official)<br><small>102_34193</small> | [ZENWIFI_BD4](https://www.asusgo.com/firmware/download?devicename=zenwifi_bd4&firmware=asus_official)<br><small>102_56735</small> |
+| [GT-BE96](https://www.asusgo.com/firmware/download?devicename=gt-be96&firmware=asus_official)<br><small>102_37421</small> | [ROG 魔盒Pro(GS7_PRO)](https://www.koolcenter.com/t/topic/877)<br><small>102_38498</small> | [ROG 魔盒(GS7)](https://www.asusgo.com/firmware/download?devicename=gs7&firmware=asus_official)<br><small>102_56929_r1</small> | [RT-BE88U](https://www.asusgo.com/firmware/download?devicename=rt-be88u&firmware=merlin)<br><small>102.4_0</small> |
+| [RT-BE86U](https://www.asusgo.com/firmware/download?devicename=rt-be86u&firmware=merlin)<br><small>102.4_0</small> | [RT-BE82U](https://www.asusgo.com/firmware/download?devicename=rt-be82u&firmware=asus_official)<br><small>102_38152</small> | [TUF-BE6500](https://www.asusgo.com/firmware/download?devicename=tuf-be6500&firmware=asus_official)<br><small>102_54701</small> | [TUF-BE3600](https://www.asusgo.com/firmware/download?devicename=tuf-be3600&firmware=asus_official)<br><small>102_34193</small> |
+| [ZENWIFI_BD4](https://www.asusgo.com/firmware/download?devicename=zenwifi_bd4&firmware=asus_official)<br><small>102_56735</small> |
 
 **WiFi6 设备**
 
