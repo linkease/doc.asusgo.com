@@ -28,7 +28,7 @@
 #### 三、支持机型
 本固件仅支持华硕 ROG魔盒_PRO（GS7Pro），其它机型请勿使用本固件！
 
-* **魔盒 Pro 官改固件公测中，欢迎体验。**
+* **魔盒 Pro 官改固件[酷友社](https://www.koolcenter.com/t/topic/877)论坛已发布，欢迎体验。**
 * [点击下载 ROG 魔盒_PRO（GS7Pro) 改版固件](https://www.koolcenter.com/t/topic/877)
 
 #### 四、刷写固件
