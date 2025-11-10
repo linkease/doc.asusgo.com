@@ -139,6 +139,7 @@ module.exports = ctx => ({
                                         ["rt-ac86u", "RT-AC86U"],
                                                          
                                         ["tuf-be6500", "TUF-BE6500"],
+                                        ["tuf-be3600_v2", "TUF-BE3600_V2"],                                                                                       
                                         ["tuf-be3600", "TUF-BE3600"],                                                                                       
                                         ["tx-ax6000", "TX-AX6000"],
                                         ["tuf-ax5400_v2", "TUF-AX5400_V2"],
