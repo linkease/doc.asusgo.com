@@ -4,9 +4,9 @@
 |:--:|:--:|
 | 无线协议 | WiFi 7 | 
 | 处理器 | 博通BCM4916 四核2.6GHz | 
-| AI处理器 | 四核2.1GHz | 
-| NPU | 7.9 TOPS | 
-| 内存 | 4GB |
+| AI处理器 | Synaptics SL1680 四核2.1GHz | 
+| NPU算力 | 7.9 TOPS | 
+| 内存 | 4GB+4GB |
 | 存储 | 32GB | 
 | 10G网口 | 2 | 
 | 10G SFP+ | 0 | 
