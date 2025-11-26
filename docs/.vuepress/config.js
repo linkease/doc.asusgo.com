@@ -105,19 +105,26 @@ module.exports = ctx => ({
                                         ["gt-be98_pro", "GT-BE98_PRO"],
                                         ["gt-be98", "GT-BE98"],
                                         ["gt-be96u", "GT-BE96U"],
+                                        ["gt-be96ai", "GT-BE96_AI"],
                                         ["gt-be96", "GT-BE96"],
+                                        ["gs7_pro", "ROG魔盒_PRO(GS7Pro)"],                           
+                                        ["gs7", "ROG魔盒(GS7)"],                           
+                                        
+                                        ["rt-be92u", "RT-BE92U"],                      
+                                        ["rt-be88u", "RT-BE88U"],
+                                        ["rt-be86u", "RT-BE86U"],
+                                        ["rt-be82u", "RT-BE82U"],
+                                        ["rt-be58_go", "RT-BE58_GO"],
+
+                                        ["zenwifi-bt8p", "ZenWiFi-BT8P"], 
+                                        ["zenwifi-bd4", "ZenWiFi-BD4"],
+
                                         ["gt-axe16000", "GT-AXE1600"],
                                         ["gt-ax11000_pro", "GT-AX11000_PRO"],
                                         ["gt-ax11000", "GT-AX11000"],
                                         ["gt-ax6000", "GT-AX6000"],
-                                        ["gs7_pro", "ROG魔盒_PRO(GS7Pro)"],                           
-                                        ["gs7", "ROG魔盒(GS7)"],                           
                                         ["gt6", "ROG魔方幻(GT6)"],
-                                
-                                        ["rt-be88u", "RT-BE88U"],
-                                        ["rt-be86u", "RT-BE86U"],
-                                        ["rt-be82u", "RT-BE82U"],
-                                
+
                                         ["rt-ax92u", "RT-AX92U"],
                                         ["rt-ax89x", "RT-AX89X"],
                                         ["rt-ax88u_pro", "RT-AX88U_PRO"],
@@ -147,12 +154,11 @@ module.exports = ctx => ({
                                         ["tuf-ax4200", "TUF-AX4200"],
                                         ["tuf-ax3000_v2", "TUF-AX3000_V2"],
                                         ["tuf-ax3000", "TUF-AX3000"],
-                                
+
                                         ["zenwifi-pro-xt12", "ZenWiFi-Pro-XT12"],  
                                         ["zenwifi-xt9", "ZenWiFi-XT9"],
                                         ["zenwifi-xt8", "ZenWiFi-XT8"],
                                         //["zenwifi-et8", "ZenWiFi-ET8"],
-                                        ["zenwifi-bd4", "ZenWiFi-BD4"],                            
                                         ["zenwifi-xd4", "ZenWiFi-XD4"], 
                                     ]
                                 },                         
