@@ -30,7 +30,7 @@ ps：海外版机型，6GHz 频段与 320MHz 频宽国内无法使用！
 #### 三、支持机型
 * 本固件仅支持华硕 GT-BE92U 机型，其它机型请勿使用本固件！
 
-* [GT-BE92U 改版固件目前仅在爱发电平台，付费抢先体验！](https://ifdian.net/item/0d7ee3dcb96711f0abe552540025c377)
+* [点击下载 GT-BE92U 改版固件](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_102/RT-BE92U/)
 
 #### 四、刷写固件
 

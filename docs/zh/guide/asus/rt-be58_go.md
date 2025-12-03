@@ -23,13 +23,12 @@
 * 注意3：欢迎转载本帖，但是请一定尊重开发组的成果，注明本帖来源！！！
 
 #### 二、固件特色
-* [A 系列 ——>> 华硕官改](/zh/guide/asus/firmware-a.md)
+* [M 系列 ——>> 梅林改版](/zh/guide/asus/firmware-m.md)
 
 #### 三、支持机型
 * 本固件仅支持华硕 RT-BE58_GO 机型，其它机型请勿使用本固件！
 
-* #### 目前暂无改版固件！
-* [点击下载 RT-BE58_GO 改版固件]()
+* [点击下载 RT-BE58_GO 改版固件](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_102/RT-BE58_GO/)
 
 #### 四、刷写固件
 
