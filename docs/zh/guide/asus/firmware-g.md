@@ -1,7 +1,7 @@
-### M 系列（梅林改版）
+### M 系列（G大 梅林改版）
 
 #### 二、固件特色
-* 梅林改版固件使用 @gnuton 梅林固件源代码 [asuswrt-merlin.ng](https://github.com/gnuton/asuswrt-merlin.ng) 为基础修改而来；
+* 梅林改版固件使用 [gnuton 梅林固件源代码](https://github.com/gnuton/asuswrt-merlin.ng) 为基础修改而来；
 * 梅林固件有的功能，梅林改版固件都有，参考此链接：[梅林固件添加的功能](https://github.com/RMerl/asuswrt-merlin.ng/blob/master/README-merlin.txt)；
 * **梅林固件不能使用的功能，梅林改版也不能使用，比如自带的 UU 加速器等；**
 * 1、开放路由器作为 AiMesh 路由时，可以通过 AiMesh 节点 IP 地址访问节点 web 后台；
@@ -11,3 +11,7 @@
 * 5、增加一些软件中心/插件需要用到的功能，如 dnsmasq with ipset、base64 一些内核模块支持等；
 * 6、koolcenter 软件中心支持。
 * [点击下载改版固件](https://www.asusgo.com/firmware)
+
+- G大梅林固件支持的wifi7机型（3006.102）： GT-BE98
+
+- G大梅林固件支持的wifi6机型（3004.388）： RT-AX5400、RT-AX58U_V2、RT-AX82U、RT-AX82U_V2、RT-AX92U、TUF-AX3000、TUF-AX3000_V2、TUF-AX5400、ZenWiFi_XT8、ZenWiFi_ET8
