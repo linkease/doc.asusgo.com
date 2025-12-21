@@ -92,6 +92,8 @@ module.exports = ctx => ({
                                         ["changelog/m_102.6_0", "R-102.6"],
                                         ["changelog/m_102.5_0", "R-102.5"],
                                         ["changelog/m_102.4_0", "R-102.4"], 
+                                        ["changelog/r_388.10_2", "R-388.10_2"], 
+                                        ["changelog/r_388.9_2", "R-388.9_2"], 
                                         ["changelog/g_388.10_2", "G-388.10_2"], 
                                         ["changelog/g_388.9_2", "G-388.9_2"]
                                     ]
@@ -99,8 +101,8 @@ module.exports = ctx => ({
                                 {
                                     title: "固件详情", collapsable: true, children: [
                                         ["firmware-a", "官方改版"],
-                                        ["firmware-m", "梅林改版(RMerl)"],
-                                        ["firmware-g", "梅林改版(gnuton)"],
+                                        ["firmware-m", "梅林改版(R大)"],
+                                        ["firmware-g", "梅林改版(G大)"],
                                     ]
                                 },
                                 {
@@ -146,7 +148,11 @@ module.exports = ctx => ({
 
                                         ["gt-ac5300", "GT-AC5300"],
                                         ["gt-ac2900", "GT-AC2900"],
+                                        ["rt-ac5300", "RT-AC5300"],
+                                        ["rt-ac88u", "RT-AC88U"],
+                                        ["rt-ac3100", "RT-AC3100"],
                                         ["rt-ac86u", "RT-AC86U"],
+                                        ["rt-ac68u", "RT-AC68U"],
                                                          
                                         ["tuf-be6500", "TUF-BE6500"],
                                         ["tuf-be3600_v2", "TUF-BE3600_V2"],                                                                                       

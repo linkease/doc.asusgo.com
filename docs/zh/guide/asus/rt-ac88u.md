@@ -1,20 +1,20 @@
 ## 机型介绍
 
-| 型号 | GT-AC5300 八爪鱼 |
+| 型号 | RT-AC88U |
 |:--:|:--:|
 | 无线协议 | WiFi 5 | 
-| 处理器 | 博通BCM4908 四核1.8GHz | 
-| 内存 | 1GB | 
+| 处理器 | 博通BCM4907C0 双核1.4GHz | 
+| 内存 | 512M | 
 | 10G网口 | 0 | 
 | 10G SFP+ | 0 | 
 | 2.5G网口 | 0 | 
-| 1G网口 | 9 | 
+| 1G网口 | 5 | 
 | 信号放大器 | 8 | 
-| 天线数量 | 8 | 
-| 无线速率 | 1000Mbps+2167Mbps+2167Mbps | 
-| 空间流 | 2.4GHz 4x4; 5GHz 4x4; 5GHz 4x4 | 
+| 天线数量 | 4 | 
+| 无线速率 | 1000Mbps+2167Mbps | 
+| 空间流 | 2.4GHz 4x4; 5GHz 4x4 | 
 | 频宽 | 20/40/80 Mhz | 
-| USB接口 | USB 3.0×2 | 
+| USB接口 | USB 3.0×1、USB 2.0 × 1 | 
 
 ## 固件介绍
 #### 一、刷机须知
@@ -23,12 +23,12 @@
 * 注意3：欢迎转载本帖，但是请一定尊重开发组的成果，注明本帖来源！！！
 
 #### 二、固件特色
-* [A 系列 ——>> 华硕官改](/zh/guide/asus/firmware-a.md)
+* [M 系列 ——>> 梅林改版](/zh/guide/asus/firmware-m.md)
 
 #### 三、支持机型
-* 本固件仅支持华硕 GT-AC5300 机型，其它机型请勿使用本固件！
+* 本固件仅支持华硕 RT-AC88U 机型，其它机型请勿使用本固件！
 
-* [点击下载 GT-AC5300 改版固件](https://www.asusgo.com/firmware/download?devicename=gt-ac5300&firmware=asus_official)
+* [点击下载 RT-AC88U 改版固件](https://www.asusgo.com/firmware/download?devicename=rt-ac88u&firmware=merlin)
 
 #### 四、刷写固件
 
