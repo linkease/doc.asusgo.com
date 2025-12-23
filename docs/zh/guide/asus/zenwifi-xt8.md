@@ -27,9 +27,9 @@
 * [M 系列 ——>> 梅林改版](/zh/guide/asus/firmware-g.md)
 
 #### 三、支持机型
-* 本固件仅支持华硕 ZenWiFi-XT8 机型，其它机型请勿使用本固件！
+* 本固件仅支持华硕 ZenWiFi-XT8（RT-AX95Q）机型，其它机型请勿使用本固件！
 
-* [点击下载 ZENWIFI-XT8 改版固件](https://www.asusgo.com/firmware/download?devicename=zenwifi-xt8&firmware=merlin)
+* [点击下载 ZenWiFi-XT8（RT-AX95Q）改版固件](https://www.asusgo.com/firmware/download?devicename=zenwifi-xt8&firmware=merlin)
 
 #### 四、刷写固件
 
