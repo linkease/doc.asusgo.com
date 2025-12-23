@@ -127,6 +127,7 @@ module.exports = ctx => ({
                                         ["gt-axe16000", "GT-AXE1600"],
                                         ["gt-ax11000_pro", "GT-AX11000_PRO"],
                                         ["gt-ax11000", "GT-AX11000"],
+                                        ["gt-axe11000", "GT-AXE11000"],
                                         ["gt-ax6000", "GT-AX6000"],
                                         ["gt6", "ROG魔方幻(GT6)"],
 
@@ -139,13 +140,15 @@ module.exports = ctx => ({
                                         ["rt-ax82u_v2", "RT-AX82U_V2"],                           
                                         ["rt-ax82u", "RT-AX82U"],
                                 
-                                        ["rt-ax68u", "RT-AX68U"],                             
+                                        ["rt-ax68u", "RT-AX68U"],
+                                        ["rt-ax58u_v2", "RT-AX58U_V2"],
                                         ["rt-ax58u", "RT-AX58U"],
                                         ["rt-ax57_go", "RT-AX57_GO"],
                                         ["rt-ax57", "RT-AX57"],
                                         ["rt-ax56u_v2", "RT-AX56U_V2"],
                                         ["rt-ax56u", "RT-AX56U"],
-
+                                        ["rt-ax5400", "RT-AX5400"],
+                                        
                                         ["gt-ac5300", "GT-AC5300"],
                                         ["gt-ac2900", "GT-AC2900"],
                                         ["rt-ac5300", "RT-AC5300"],
@@ -167,7 +170,7 @@ module.exports = ctx => ({
                                         ["zenwifi-pro-xt12", "ZenWiFi-Pro-XT12"],  
                                         ["zenwifi-xt9", "ZenWiFi-XT9"],
                                         ["zenwifi-xt8", "ZenWiFi-XT8"],
-                                        //["zenwifi-et8", "ZenWiFi-ET8"],
+                                        ["zenwifi-et8", "ZenWiFi-ET8"],
                                         ["zenwifi-xd4", "ZenWiFi-XD4"], 
                                     ]
                                 },                         
