@@ -29,8 +29,7 @@
 #### 三、支持机型
 * 本固件仅支持华硕 灵耀魔方Pro E9400（BT8P）机型，其它机型请勿使用本固件！
 
-* **灵耀魔方Pro E9400（BT8P）官改固件[酷友社](https://www.koolcenter.com/t/topic/5983)论坛已发布，欢迎体验。**
-* [点击下载 灵耀魔方Pro E9400（BT8P）改版固件](https://www.koolcenter.com/t/topic/5983)
+* [点击下载 灵耀魔方Pro E9400（BT8P）改版固件](https://www.asusgo.com/firmware/download?devicename=zenwifi-bt8p&firmware=asus_official)
 
 #### 四、刷写固件
 

@@ -1,6 +1,6 @@
 ## 机型介绍
 
-| 型号 | TUF-BE3600 v2 小旋风 |
+| 型号 | TUF-BE3600 v2 小旋风 v2 |
 |:--:|:--:|
 | 无线协议 | WiFi 7 | 
 | 处理器 | 博通BCM6764 四核2.0GHz | 
@@ -23,19 +23,13 @@
 * 注意3：欢迎转载本帖，但是请一定尊重开发组的成果，注明本帖来源！！！
 
 #### 二、固件特色
-* TUF-BE3600 最新官方固件有降级检测机制，建议刷入固件前，利用 SSH 关闭固件降级检测;
-* **SSH 登录路由器后台后输入命令：**
-```
-nvram set DOWNGRADE_CHECK_PASS=1
-```
 
 * [A 系列 ——>> 华硕官改](/zh/guide/asus/firmware-a.md)
 
 #### 三、支持机型
 * 本固件仅支持华硕 TUF-BE3600 V2 机型，其它机型请勿使用本固件！
 
-* **TUF-BE3600_V2 官改固件[酷友社](https://www.koolcenter.com/t/topic/5979)论坛已发布，欢迎体验。**
-* [点击下载 TUF-BE3600_V2 改版固件](https://www.koolcenter.com/t/topic/5979)
+* [点击下载 TUF-BE3600_V2 改版固件](https://www.asusgo.com/firmware/download?devicename=tuf-be3600_v2&firmware=asus_official)
 
 #### 四、刷写固件
 
