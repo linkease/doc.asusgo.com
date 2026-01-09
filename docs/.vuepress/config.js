@@ -121,6 +121,10 @@ module.exports = ctx => ({
                                         ["rt-be82u", "RT-BE82U"],
                                         ["rt-be58_go", "RT-BE58_GO"],
 
+                                        ["tuf-be6500", "TUF-BE6500"],
+                                        ["tuf-be3600_v2", "TUF-BE3600_V2"],                                                                                       
+                                        ["tuf-be3600", "TUF-BE3600"],
+
                                         ["zenwifi-bt8p", "ZenWiFi-BT8P"], 
                                         ["zenwifi-bd4", "ZenWiFi-BD4"],
 
@@ -156,10 +160,7 @@ module.exports = ctx => ({
                                         ["rt-ac3100", "RT-AC3100"],
                                         ["rt-ac86u", "RT-AC86U"],
                                         ["rt-ac68u", "RT-AC68U"],
-                                                         
-                                        ["tuf-be6500", "TUF-BE6500"],
-                                        ["tuf-be3600_v2", "TUF-BE3600_V2"],                                                                                       
-                                        ["tuf-be3600", "TUF-BE3600"],                                                                                       
+                                                                                                                                              
                                         ["tx-ax6000", "TX-AX6000"],
                                         ["tuf-ax5400_v2", "TUF-AX5400_V2"],
                                         ["tuf-ax5400", "TUF-AX5400"],
