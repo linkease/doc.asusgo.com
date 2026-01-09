@@ -126,7 +126,7 @@ module.exports = ctx => ({
                                         ["tuf-be3600", "TUF-BE3600"],
 
                                         ["zenwifi-bt8p", "ZenWiFi-BT8P"], 
-                                        ["zenwifi-bd4", "ZenWiFi-BD4"],
+                                        ["zenwifi_bd4", "ZenWiFi-BD4"],
 
                                         ["gt-axe16000", "GT-AXE1600"],
                                         ["gt-ax11000_pro", "GT-AX11000_PRO"],
