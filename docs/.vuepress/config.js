@@ -112,7 +112,9 @@ module.exports = ctx => ({
                                         ["gt-be96u", "GT-BE96U"],
                                         ["gt-be96ai", "GT-BE96_AI"],
                                         ["gt-be96", "GT-BE96"],
-                                        ["gs7_pro", "ROG魔盒_PRO(GS7Pro)"],                           
+                                        ["gs7_pro", "ROG魔盒_PRO(GS7Pro)"], 
+                                        ["gs7_x", "ROG魔盒_X(GS-BE7200X)"],                           
+                                        ["gs7_air", "ROG魔盒_Air(GS7_Air)"],                                                     
                                         ["gs7", "ROG魔盒(GS7)"],                           
                                         
                                         ["rt-be92u", "RT-BE92U"],                      
