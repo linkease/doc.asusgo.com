@@ -33,7 +33,7 @@
 * 本固件仅支持华硕 GT-BE96 AI 机型，名称八爪鱼7 AI，其它机型请勿使用本固件！
 
 * #### 目前暂无改版固件！
-* [点击下载 GT-BE96 AI 改版固件]()
+* [点击下载 GT-BE96 AI 改版固件](https://www.asusgo.com/firmware/download?devicename=gt-be96ai&firmware=asus_official)
 
 #### 四、刷写固件
 
