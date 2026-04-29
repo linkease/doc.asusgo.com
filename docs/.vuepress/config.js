@@ -109,14 +109,14 @@ module.exports = ctx => ({
                                     title: "设备详情", collapsable: true, children: [
                                         ["gt-be98_pro", "GT-BE98_PRO"],
                                         ["gt-be98", "GT-BE98"],
-                                        ["gt-be96u", "GT-BE96U"],
                                         ["gt-be96ai", "GT-BE96_AI"],
-                                        ["gt-be96", "GT-BE96"],
+                                        ["gt-be96", "GT-BE96 八爪鱼7"],
                                         ["gs7_pro", "ROG魔盒_PRO(GS7Pro)"], 
                                         ["gs7_x", "ROG魔盒_X(GS-BE7200X)"],                           
                                         ["gs7_air", "ROG魔盒_Air(GS7_Air)"],                                                     
                                         ["gs7", "ROG魔盒(GS7)"],                           
-                                        
+
+                                        ["rt-be96u", "RT-BE96U"],                                        
                                         ["rt-be92u", "RT-BE92U"],                      
                                         ["rt-be88u", "RT-BE88U"],
                                         ["rt-be86u", "RT-BE86U"],
@@ -130,7 +130,7 @@ module.exports = ctx => ({
                                         ["zenwifi-bt8p", "ZenWiFi-BT8P"], 
                                         ["zenwifi_bd4", "ZenWiFi-BD4"],
 
-                                        ["gt-axe16000", "GT-AXE1600"],
+                                        ["gt-axe16000", "GT-AXE16000"],
                                         ["gt-ax11000_pro", "GT-AX11000_PRO"],
                                         ["gt-ax11000", "GT-AX11000"],
                                         ["gt-axe11000", "GT-AXE11000"],

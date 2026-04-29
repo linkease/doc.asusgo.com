@@ -28,9 +28,9 @@ ps：海外版机型，6GHz 频段与 320MHz 频宽国内无法使用！
 * [M 系列 ——>> 梅林改版](/zh/guide/asus/firmware-m.md)
 
 #### 三、支持机型
-* 本固件仅支持华硕 GT-BE92U 机型，其它机型请勿使用本固件！
+* 本固件仅支持华硕 RT-BE92U 机型，其它机型请勿使用本固件！
 
-* [点击下载 GT-BE92U 改版固件](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_102/RT-BE92U/)
+* [点击下载 RT-BE92U 改版固件](https://www.asusgo.com/firmware/download?devicename=rt-be92u&firmware=merlin)
 
 #### 四、刷写固件
 

@@ -30,7 +30,7 @@ ps：海外版机型，6GHz 频段国内无法使用！
 #### 三、支持机型
 * 本固件仅支持华硕 ZenWiFi-ET8（RT-AXE95Q）机型，其它机型请勿使用本固件！
 
-* [点击下载 ZenWiFi-ET8（RT-AXE95Q）改版固件](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_388/ZenWiFi_ET8)
+* [点击下载 ZenWiFi-ET8（RT-AXE95Q）改版固件](https://www.asusgo.com/firmware/download?devicename=zenwifi-et8&firmware=merlin)
 
 #### 四、刷写固件
 

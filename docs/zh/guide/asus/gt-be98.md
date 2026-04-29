@@ -36,7 +36,7 @@ nvram set DOWNGRADE_CHECK_PASS=1
 #### 三、支持机型
 * 本固件仅支持华硕 GT-BE98 机型，其它机型请勿使用本固件！
 
-* [点击下载 GT-BE98 改版固件](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_102/GT-BE98/)
+* [点击下载 GT-BE98 改版固件](https://www.asusgo.com/firmware/download?devicename=gt-be98&firmware=merlin)
 
 #### 四、刷写固件
 

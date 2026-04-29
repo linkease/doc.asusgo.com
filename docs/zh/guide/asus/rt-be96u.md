@@ -1,14 +1,14 @@
 ## 机型介绍
 
-| 型号 | GT-BE96U BE19000 三频 |
+| 型号 | RT-BE96U BE19000 三频 |
 |:--:|:--:|
 | 无线协议 | WiFi 7 | 
 | 处理器 | 博通BCM4916 四核2.6GHz | 
 | 内存 | 2GB | 
 | 10G网口 | 2 | 
 | 10G SFP+ | 0 | 
-| 2.5G网口 | 4 | 
-| 1G网口 | 1 | 
+| 2.5G网口 | 0 | 
+| 1G网口 | 4 | 
 | 信号放大器 | 12 | 
 | 天线数量 | 8 | 
 | 无线速率 | 1376Mbps+5764Mbps+11529Mbps | 
@@ -34,9 +34,9 @@ nvram set DOWNGRADE_CHECK_PASS=1
 * [M 系列 ——>> 梅林改版](/zh/guide/asus/firmware-m.md)
 
 #### 三、支持机型
-* 本固件仅支持华硕 GT-BE96U 机型，其它机型请勿使用本固件！
+* 本固件仅支持华硕 RT-BE96U 机型，其它机型请勿使用本固件！
 
-* [点击下载 GT-BE96U 改版固件](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_102/RT-BE96U/)
+* [点击下载 RT-BE96U 改版固件](https://www.asusgo.com/firmware/download?devicename=rt-be96u&firmware=merlin)
 
 #### 四、刷写固件
 
