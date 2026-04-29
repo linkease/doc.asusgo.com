@@ -13,9 +13,10 @@
 
 | 型号 | 型号 | 型号 | 型号 |
 |:-:|:-:|:-:|:-:|
-| [GT-BE96](https://www.asusgo.com/firmware/download?devicename=gt-be96&firmware=asus_official) | [ROG 魔盒Pro(GS7_PRO)](https://www.koolcenter.com/t/topic/877) | [ROG 魔盒(GS7)](https://www.asusgo.com/firmware/download?devicename=gs7&firmware=asus_official) | [RT-BE88U](https://www.asusgo.com/firmware/download?devicename=rt-be88u&firmware=merlin) |
-| [RT-BE86U](https://www.asusgo.com/firmware/download?devicename=rt-be86u&firmware=merlin) | [RT-BE82U](https://www.asusgo.com/firmware/download?devicename=rt-be82u&firmware=asus_official)  | [TUF-BE6500](https://www.asusgo.com/firmware/download?devicename=tuf-be6500&firmware=asus_official) | [TUF-BE3600_V2](https://www.asusgo.com/firmware/download?devicename=tuf-be3600_v2&firmware=asus_official) |
-| [TUF-BE3600](https://www.asusgo.com/firmware/download?devicename=tuf-be3600&firmware=asus_official) | [ZENWIFI-BD4](https://www.asusgo.com/firmware/download?devicename=zenwifi_bd4&firmware=asus_official) | [ZENWIFI-BT8P](https://www.asusgo.com/firmware/download?devicename=zenwifi-bt8p&firmware=asus_official) | [RT-BE58_GO](https://www.asusgo.com/firmware/download?devicename=rt-be58_go&firmware=asus_official) |
+| [GT-BE96八爪鱼7](https://www.asusgo.com/firmware/download?devicename=gt-be96&firmware=asus_official) | [ROG魔盒Pro(GS7PRO)](https://www.asusgo.com/firmware/download?devicename=gs7_pro&firmware=asus_official) | [ROG魔盒(GS7)](https://www.asusgo.com/firmware/download?devicename=gs7&firmware=asus_official) | [ROG魔盒Air(GS7Air)](https://www.asusgo.com/firmware/download?devicename=gs7_air&firmware=asus_official) |
+| [RT-BE88U](https://www.asusgo.com/firmware/download?devicename=rt-be88u&firmware=merlin) | [RT-BE86U](https://www.asusgo.com/firmware/download?devicename=rt-be86u&firmware=merlin) | [RT-BE82U](https://www.asusgo.com/firmware/download?devicename=rt-be82u&firmware=asus_official)  | [TUF-BE6500](https://www.asusgo.com/firmware/download?devicename=tuf-be6500&firmware=asus_official) |
+| [TUF-BE3600_V2](https://www.asusgo.com/firmware/download?devicename=tuf-be3600_v2&firmware=asus_official) | [TUF-BE3600](https://www.asusgo.com/firmware/download?devicename=tuf-be3600&firmware=asus_official) | [ZENWIFI-BD4](https://www.asusgo.com/firmware/download?devicename=zenwifi_bd4&firmware=asus_official) | [ZENWIFI-BT8P](https://www.asusgo.com/firmware/download?devicename=zenwifi-bt8p&firmware=asus_official) |
+| [RT-BE58_GO](https://www.asusgo.com/firmware/download?devicename=rt-be58_go&firmware=asus_official) |
 
 **WiFi6 设备**
 
