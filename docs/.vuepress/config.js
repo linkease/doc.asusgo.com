@@ -89,6 +89,7 @@ module.exports = ctx => ({
 
                                 {
                                     title: "更新日志", collapsable: true, children: [
+                                        ["changelog/m_102.7_2", "R-102.7_2"],
                                         ["changelog/m_102.7_0", "R-102.7"],
                                         ["changelog/m_102.6_0", "R-102.6"],
                                         ["changelog/m_102.5_0", "R-102.5"],
