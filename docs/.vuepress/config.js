@@ -114,7 +114,8 @@ module.exports = ctx => ({
                                         ["gt-be98", "GT-BE98"],
                                         ["gt-be96ai", "GT-BE96_AI"],
                                         ["gt-be96", "GT-BE96 八爪鱼7"],
-                                        ["gs7_pro", "ROG魔盒_PRO(GS7Pro)"], 
+                                        ["gs7_promax", "ROG魔盒_ProMax(GS7ProMax)"], 
+                                        ["gs7_pro", "ROG魔盒_Pro(GS7Pro)"], 
                                         ["gs7_x", "ROG魔盒_X(GS-BE7200X)"],                           
                                         ["gs7_air", "ROG魔盒_Air(GS7_Air)"],                                                     
                                         ["gs7", "ROG魔盒(GS7)"],                           
@@ -125,6 +126,7 @@ module.exports = ctx => ({
                                         ["rt-be86u", "RT-BE86U"],
                                         ["rt-be82u", "RT-BE82U"],
                                         ["rt-be58_go", "RT-BE58_GO"],
+                                        ["tx-be5000", "TX-BE5000"],
 
                                         ["tuf-be6500", "TUF-BE6500"],
                                         ["tuf-be3600_v2", "TUF-BE3600_V2"],                                                                                       
