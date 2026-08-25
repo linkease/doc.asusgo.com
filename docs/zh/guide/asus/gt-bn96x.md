@@ -1,24 +1,20 @@
 ## 机型介绍
 
-| 型号 | ROG 八爪鱼7 AI BE13000 三频 |
+| 型号 | ROG 八爪鱼8 / GT-BN96X |
 |:--:|:--:|
-| 无线协议 | WiFi 7 | 
-| 处理器 | 博通BCM4916 四核2.6GHz | 
-| AI处理器 | Synaptics SL1680 四核2.1GHz | 
-| NPU算力 | 7.9 TOPS | 
-| 内存 | 4GB+4GB |
-| 存储 | 32GB | 
+| 无线协议 | WiFi 8 | 
+| 处理器 | 博通四核2.6GHz | 
+| 内存 | 2GB | 
 | 10G网口 | 2 | 
 | 10G SFP+ | 0 | 
 | 2.5G网口 | 4 | 
 | 1G网口 | 1 | 
-| 信号放大器 | 12 | 
+| 信号放大器 | 16 | 
 | 天线数量 | 8 | 
 | 无线速率 | 1376Mbps+5764Mbps+5764Mbps | 
-| 空间流 | 2.4GHz 4x4; 5GHz 4x4; 5GHz 4x4 | 
+| 空间流 | 2.4GHz 4x4；5GHz-1 4x4；5GHz-2 4x4 | 
 | 频宽 | 20/40/80/160 Mhz | 
 | USB接口 | USB 3.2 Gen1×1、USB 2.0×1 | 
-
 
 ## 固件介绍
 #### 一、刷机须知
@@ -30,10 +26,10 @@
 * [A 系列 ——>> 华硕官改](/zh/guide/asus/firmware-a.md)
 
 #### 三、支持机型
-* 本固件仅支持 ROG 八爪鱼7 AI 机型，其它机型请勿使用本固件！
+* 本固件仅支持 ROG 八爪鱼8 机型，其它机型请勿使用本固件！
 
 * #### 目前暂无改版固件！
-* [点击下载 GT-BE96 AI 改版固件](https://www.asusgo.com/firmware/download?devicename=gt-be96ai&firmware=asus_official)
+* [点击下载 GT-BN96X 改版固件](https://www.asusgo.com/firmware/download?devicename=gt-bn96x&firmware=merlin)
 
 #### 四、刷写固件
 

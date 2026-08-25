@@ -111,6 +111,7 @@ module.exports = ctx => ({
                                 },
                                 {
                                     title: "设备详情", collapsable: true, children: [
+                                        ["gt-bn96x", " GT-BN96X 八爪鱼8"],
                                         ["gt-be98_pro", "GT-BE98_PRO"],
                                         ["gt-be98", "GT-BE98"],
                                         ["gt-be96ai", "GT-BE96_AI"],

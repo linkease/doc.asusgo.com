@@ -1,6 +1,6 @@
 ## 机型介绍
 
-| 型号 | ROG 八爪鱼7 BE13000 三频 |
+| 型号 | ROG 八爪鱼7 / GT-BE96 |
 |:--:|:--:|
 | 无线协议 | WiFi 7 | 
 | 处理器 | 博通BCM4916 四核2.6GHz | 
@@ -12,7 +12,7 @@
 | 信号放大器 | 12 | 
 | 天线数量 | 8 | 
 | 无线速率 | 1376Mbps+5764Mbps+5764Mbps | 
-| 空间流 | 2.4GHz 4x4; 5GHz 4x4; 5GHz 4x4 | 
+| 空间流 | 2.4GHz 4x4; 5GHz-1 4x4; 5GHz-1 4x4 | 
 | 频宽 | 20/40/80/160 Mhz | 
 | USB接口 | USB 3.2 Gen1×1、USB 2.0×1 | 
 
@@ -33,7 +33,7 @@ nvram set DOWNGRADE_CHECK_PASS=1
 * [A 系列 ——>> 华硕官改](/zh/guide/asus/firmware-a.md)
 
 #### 三、支持机型
-* 本固件仅支持华硕 GT-BE96 机型，名称八爪鱼7，其它机型请勿使用本固件！
+* 本固件仅支持 ROG 八爪鱼7 机型，其它机型请勿使用本固件！
 
 * [点击下载 GT-BE96 改版固件](https://www.asusgo.com/firmware/download?devicename=gt-be96&firmware=asus_official)
 
