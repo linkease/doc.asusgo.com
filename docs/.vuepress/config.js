@@ -100,6 +100,7 @@ module.exports = ctx => ({
                                         ["changelog/r_388.11_0", "R-388.11"], 
                                         ["changelog/r_388.10_2", "R-388.10_2"], 
                                         ["changelog/r_388.9_2", "R-388.9_2"], 
+                                        ["changelog/g_388.11_0", "G-388.11_0"], 
                                         ["changelog/g_388.10_2", "G-388.10_2"], 
                                         ["changelog/g_388.9_2", "G-388.9_2"]
                                     ]
